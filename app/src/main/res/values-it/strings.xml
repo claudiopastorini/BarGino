@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bar Gino</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="cup">Tazza</string>
+    <string name="glass">Vetro</string>
+    <string name="type_choice">Scegli il tipo di caffè</string>
+    <string name="bitter">Amaro</string>
+    <string name="cane">Con zucchero di canna</string>
+    <string name="sweet">Dolce</string>
+    <string name="sweetener">Con dolcificante</string>
+    <string name="cold_milk">Latte freddo</string>
+    <string name="hot_milk">Latte caldo</string>
+    <string name="liquor_choice">Scegli il liquore</string>
+    <string name="milk_choice">Scegli il latte</string>
+    <string name="sugar_choice">Scegli il tipo di zucchero</string>
+    <string name="something_else_question">Vuoi aggiungere qualcos\'altro?</string>
+    <string name="liquor">Liquore</string>
+    <string name="nothing">Nient\'altro</string>
+    <string name="milk">Latte</string>
+    <string name="shortq">Corto</string>
+    <string name="normal">Normale</string>
+    <string name="longq">Lungo</string>
+    <string name="doubleq">Doppio</string>
+    <string name="quantity_choice">Scegli la quantità di caffè</string>
+    <string name="title_activity_summary">Riepilogo</string>
+    <string name="summary_short">Hai preso un caffè %1$s %2$s in %3$s.</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="order_complete">Il tuo ordine è completo!</string>
+    <string name="total">TOTALE:</string>
+    <string name="summary_long">Hai preso un caffè %1$s %2$s in %3$s con %4$s.</string>
+    <string name="corretto_not_choose">Per favore, seleziona un\'opzione</string>
+</resources>

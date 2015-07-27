@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Bar Gino</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="type_choice">Choose the type of the coffee</string>
+    <string name="cup">Cup</string>
+    <string name="glass">Glass</string>
+
+    <string name="sugar_choice">Choose the type of the sugar</string>
+    <string name="cane">With sugar cane</string>
+    <string name="bitter">Bitter</string>
+    <string name="sweet">Sweet</string>
+    <string name="sweetener">With sweetener</string>
+
+    <string name="something_else_question">Do you want add something else?</string>
+
+    <string name="milk_choice">Choose the type of the milk</string>
+    <string name="hot_milk">Hot milk</string>
+    <string name="cold_milk">Cold milk</string>
+
+    <string name="liquor_choice">Choose the type of the liquor</string>
+    <string name="grappa" translatable="false">Grappa</string>
+    <string name="sambuca" translatable="false">Sambuca</string>
+    <string name="cognac" translatable="false">Cognac</string>
+
+    <string name="milk">Milk</string>
+    <string name="liquor">Liquor</string>
+    <string name="nothing">Nothing</string>
+
+    <string name="quantity_choice">Choose the quantity of the coffee</string>
+    <string name="shortq">Short</string>
+    <string name="normal">Normal</string>
+    <string name="longq">Long</string>
+    <string name="doubleq">Double</string>
+
+    <string name="title_activity_summary">Summary</string>
+    <string name="summary_long">You bought a %1$s %2$s coffee in %3$s with %4$s.</string>
+    <string name="summary_short">You bought a %1$s %2$s coffee in %3$s.</string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="order_complete">Your order is now complete!</string>
+    <string name="total">TOTAL:</string>
+    <string name="corretto_not_choose">Please, select one option</string>
+
+</resources>

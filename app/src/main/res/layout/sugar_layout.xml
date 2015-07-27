@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/big_padding"
+    android:paddingRight="@dimen/big_padding"
+    tools:ignore="RtlSymmetry">
+
+    <!-- Subhead -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/tile_height"
+        android:gravity="center_vertical"
+        android:text="@string/sugar_choice"
+        android:textColor="@color/primary"
+        style="@style/Base.TextAppearance.AppCompat.Body2" />
+
+    <!-- List of choice -->
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/cane_choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/cane"/>
+
+        <RadioButton
+            android:id="@+id/bitter_choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/bitter"/>
+
+        <RadioButton
+            android:id="@+id/sweet_choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/sweet"/>
+
+        <RadioButton
+            android:id="@+id/sweetener_choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/sweetener"/>
+
+    </RadioGroup>
+
+</LinearLayout>
